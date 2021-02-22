@@ -27,6 +27,9 @@ We also have the following development principles.  In priority order, they are:
 ## How to Contribute
 Please see our [Contributor Guide](https://github.com/Cambia-Labs/code-of-conduct/blob/master/contributor_guide.md) for getting started.
 
+## Cambia Lab Repos
+View the [Cambia Lab public repositories](https://github.com/Cambia-Labs/).
+
 ## License and Copyright
 Journi Inc. releases it's code under the [Apache 2.0 license](https://github.com/Cambia-Labs/code-of-conduct/blob/master/LICENSE). Copyright for all code released is held by Cambia Health Solutions.
 
