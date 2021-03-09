@@ -32,5 +32,3 @@ View the [Cambia Open Innovations public repositories](https://github.com/Cambia
 
 ## License and Copyright
 Journi Inc. releases it's code under the [Apache 2.0 license](https://github.com/Cambia-Open-Innovations/code-of-conduct/blob/master/LICENSE). Copyright for all code released is held by Cambia Health Solutions.
-
-
