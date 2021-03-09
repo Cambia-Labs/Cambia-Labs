@@ -3,7 +3,7 @@
 Cambia Health Solutions is proud to contribute to the open source community. Our Cause is to serve as catalyst to transform health care, creating a person-focused and economically sustainable health-care system. One of the ways we fulfill our cause is by contributing our code, trainings and engineering best practices to accelerate the efforts of those developing innovative health-care applications. Changes in health care will come from many directions and we want to be part of building the ecosystem and resources that foster rapid, creative solutions.
 
 ## Code of Conduct
-We adhere to the [Contributor Covenant Code of Conduct v2.0](https://github.com/Cambia-Labs/code-of-conduct/blob/master/code_of_conduct.md) for Open Source Projects. We are overt in our openness and welcome all people to contribute, pledging in return to value them as whole human beings and to foster an atmosphere of kindness, cooperation and understanding. 
+We adhere to the [Contributor Covenant Code of Conduct v2.0](https://github.com/Cambia-Open-Innovations/code-of-conduct/blob/master/code_of_conduct.md) for Open Source Projects. We are overt in our openness and welcome all people to contribute, pledging in return to value them as whole human beings and to foster an atmosphere of kindness, cooperation and understanding. 
 
 ## Principles
 As contributors to the open source community, we believe in the following engagement principles:
@@ -25,12 +25,12 @@ We also have the following development principles.  In priority order, they are:
 7. Feature 
 
 ## How to Contribute
-Please see our [Contributor Guide](https://github.com/Cambia-Labs/code-of-conduct/blob/master/contributor_guide.md) for getting started.
+Please see our [Contributor Guide](https://github.com/Cambia-Open-Innovations/code-of-conduct/blob/master/contributor_guide.md) for getting started.
 
-## Cambia Lab Repos
-View the [Cambia Lab public repositories](https://github.com/Cambia-Labs/).
+## Cambia Open Innovations Repos
+View the [Cambia Open Innovations public repositories](https://github.com/Cambia-Open-Innovations/).
 
 ## License and Copyright
-Journi Inc. releases it's code under the [Apache 2.0 license](https://github.com/Cambia-Labs/code-of-conduct/blob/master/LICENSE). Copyright for all code released is held by Cambia Health Solutions.
+Journi Inc. releases it's code under the [Apache 2.0 license](https://github.com/Cambia-Open-Innovations/code-of-conduct/blob/master/LICENSE). Copyright for all code released is held by Cambia Health Solutions.
 
 
