@@ -25,12 +25,10 @@ We also have the following development principles.  In priority order, they are:
 7. Feature 
 
 ## How to Contribute
-Please see our [Contributor Guide](https://github.com/Cambia-Labs/code-of-conduct/blob/master/contributor_guide.md) for getting started.
+Please see our [Contributor Guide](https://github.com/Cambia-Open-Innovations/code-of-conduct/blob/master/contributor_guide.md) for getting started.
 
 ## Cambia Open Innovations Repos
 View the [Cambia Open Innovations public repositories](https://github.com/Cambia-Open-Innovations/).
 
 ## License and Copyright
-Journi Inc. releases it's code under the [Apache 2.0 license](https://github.com/Cambia-Labs/code-of-conduct/blob/master/LICENSE). Copyright for all code released is held by Cambia Health Solutions.
-
-
+Journi Inc. releases it's code under the [Apache 2.0 license](https://github.com/Cambia-Open-Innovations/code-of-conduct/blob/master/LICENSE). Copyright for all code released is held by Cambia Health Solutions.
